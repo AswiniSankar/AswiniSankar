@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own Audio Book by using Python](https://aswinisuguna2.medium.com/build-your-own-audio-book-by-using-python-bfe32cf8f600?source=rss-f03b8ade087c------2)
 - [Automatic Certificate Generator in Python](https://aswinisuguna2.medium.com/automatic-certificate-generator-in-python-dcc9dc21cf14?source=rss-f03b8ade087c------2)
 <!-- BLOG-POST-LIST:END -->
 
