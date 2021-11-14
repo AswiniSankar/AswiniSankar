@@ -9,7 +9,7 @@
 <br>
 
 #### Connect with me:
-<img align="left" alt="aswiniSankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/aswini-sankar-54a840193]
+[<img align="left" alt="aswiniSankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aswini-sankar-54a840193)
 
 #### Languages and Tools Known:
 
