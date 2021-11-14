@@ -29,6 +29,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Certificate Generator in Python](https://aswinisuguna2.medium.com/automatic-certificate-generator-in-python-dcc9dc21cf14?source=rss-f03b8ade087c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://aswinisuguna2.medium.com)
