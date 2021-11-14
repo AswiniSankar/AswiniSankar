@@ -1,6 +1,5 @@
 ### Hi there, I'm Aswini - Sankar👋
 #### I'm a Technical Support Engineer!!
-#### Here are some ideas to get you started:
 - 🔭 I’m currently working on  Onebill Software, bangalore
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on other content creators
