@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love to drawing, hearing music
 <br>
 
-#### Connect with me:
-[<img align="left" alt="aswiniSankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aswini-sankar-54a840193)
-
+#### Connect with me: <br>
+[<img align="left" alt="aswiniSankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aswini-sankar-54a840193)<br>
+---
 #### Languages and Tools Known:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
