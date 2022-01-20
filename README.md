@@ -1,5 +1,10 @@
-### Hi there, I'm Aswini - Sankar👋
+### Hello from Aswini - Sankar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" height="150"  width="150" />
+
+
 #### I'm a Technical Support Engineer!!
+
 - 🔭 I’m currently working on  Onebill Software, bangalore
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on other content creators
@@ -7,23 +12,75 @@
 - 😄 Pronouns: Aswini Sankar
 - ⚡ Fun fact: I love to drawing, hearing music
 <br>
+<br>
 
-#### Connect with me: <br>
-[<img align="left" alt="aswiniSankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aswini-sankar-54a840193)<br>
----
-#### Languages and Tools Known:
+<img src="https://github-profile-trophy.vercel.app/?username=AswiniSankar&theme=tokyonight&margin-w=15" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+</br>
+
+#### 🛠 &nbsp;Tech Stack I work with and known:
+
+<p  align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=darkgreen
+" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" height="30"/>  
+ 
+
+  </p>
+<p  align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>  
+  &nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" height="30"/>
+
+
+  </p>
+  <p  align="left">
+
+<img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=red" width="100" height="30"/>
+  </p>
+    <p  align="left">
+ </p>
+ <p  align="left">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="90" height="30">
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="30">
+ <p  align="left">
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" width="80" height="30">
+&nbsp;
+<img src="	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="80" height="30">
+&nbsp;
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="80" height="30">
+</p>
+<p  align="left">
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="80" height="30"> 
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" width="100" height="30"/>  
+ </p>
+
+<p  align="left">
+
+<img src=" https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="80" height="30"> 
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9
+" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100" height="30"/>  
+ </p>
+ 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+
+#### Github Stats
+
+| ![AswiniSankar's github stats](https://github-readme-stats.vercel.app/api?username=AswiniSankar&show_icons=true&theme=tokyonight) | ![AswiniSankar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswiniSankar&theme=tokyonight) |
+| --- | --- |
+
+<br>
 
 #### 📕 Latest Blog Posts
 
@@ -34,4 +91,14 @@
 
 ➡️ [more blog posts...](https://aswinisuguna2.medium.com)
 
+----
+#### Connect with me: <br>
 
+<a href="https://www.linkedin.com/in/aswini-sankar-54a840193" target="_blank">
+    <img alt="aswini | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="80"/>
+  </a> &nbsp;&nbsp;
+  <a href="mailto:aswinisuguna2@gmail.com">
+    <img alt="aswini | Gmail" width="80px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
+  </a>
+  
+ 
