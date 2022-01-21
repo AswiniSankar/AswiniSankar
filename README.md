@@ -22,9 +22,7 @@
 
 <p  align="left">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/>  
-<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=darkgreen
-" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/>   
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" height="30"/>  
  
 
@@ -34,7 +32,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>  
   &nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" height="30"/>
-
 
   </p>
   <p  align="left">
@@ -50,7 +47,7 @@
  <p  align="left">
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" width="80" height="30">
 &nbsp;
-<img src="	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="80" height="30">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100" height="30"/>  
 &nbsp;
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="80" height="30">
 </p>
@@ -58,17 +55,7 @@
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="80" height="30"> 
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" width="100" height="30"/>  
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" width="100" height="30"/>  
- </p>
-
-<p  align="left">
-
-<img src=" https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="80" height="30"> 
-<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9
-" width="100" height="30"/>  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-" width="100" height="30"/>  
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" width="100" height="30"/>
  </p>
  
 #### Profile Visits 
