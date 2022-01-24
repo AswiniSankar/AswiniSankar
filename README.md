@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AswiniSankar&theme=tokyonight&margin-w=15" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AswiniSankar&theme=tokyonight&margin-w=15" />-->
 
 </br>
 
