@@ -16,8 +16,6 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=AswiniSankar&theme=tokyonight&margin-w=15" />-->
 
-</br>
-
 #### 🛠 &nbsp;Tech Stack I work with and known:
 
 <p  align="left">
@@ -57,10 +55,6 @@
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" width="100" height="30"/>  
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" width="100" height="30"/>
  </p>
- 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 #### Github Stats
 
