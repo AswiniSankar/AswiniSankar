@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" height="150"  width="150" />
 
 
-#### I'm a Technical Support Engineer!!
+#### I'm a Software Engineer!!
 
 - 🔭 I’m currently working on  Onebill Software, bangalore
 - 🌱 I’m currently learning new technologies
