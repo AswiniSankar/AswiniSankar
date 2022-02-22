@@ -11,6 +11,7 @@
 - 💬 Ask me about technology
 - 😄 Pronouns: Aswini Sankar
 - ⚡ Fun fact: I love to drawing, hearing music
+- 👩‍💻 Portfolio : https://aswinisankar.github.io/aswinisankar-profile-v1/
 <br>
 <br>
 
@@ -82,4 +83,6 @@
     <img alt="aswini | Gmail" width="80px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
   </a>
   
- 
+  <a href ="https://aswinisankar.github.io/aswinisankar-profile-v1/" target="_blank">
+      <img alt="aswini | profile" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxKP7In7Cp1LaH6JTZKc07YdjVDRgcIsCyA&usqp=CAU" width="60px"/>
+  </a> &nbsp;&nbsp;
