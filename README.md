@@ -18,20 +18,14 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=AswiniSankar&theme=tokyonight&margin-w=15" />-->
 
-#### 🛠 &nbsp;Tech Stack I work with and known:
+#### 🛠 &nbsp;Worked Tech Stack:
 
 <p  align="left">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/>   
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/Java-065A8F?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/> 
+ <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE953" width="100" height="30"/>  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>   
  
-
-  </p>
-<p  align="left">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"/>  
-  &nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" height="30"/>
 
   </p>
   <p  align="left">
@@ -44,18 +38,17 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="90" height="30">
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="30">
+
+#### 🛠 &nbsp;Worked Tools:
+ 
  <p  align="left">
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" width="80" height="30">
-&nbsp;
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="100" height="30"/>  
 &nbsp;
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="80" height="30">
 </p>
 <p  align="left">
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="80" height="30"> 
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" width="100" height="30"/>  
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" width="100" height="30"/>
+<img src="https://img.shields.io/badge/Geany-FFFF64?style=for-the-badge&logo=geany&logoColor=white" width="80" height="30"> 
  </p>
 
 #### Github Stats
