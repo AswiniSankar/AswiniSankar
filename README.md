@@ -53,8 +53,8 @@
 
 #### Github Stats
 
-| ![AswiniSankar's github stats](https://github-readme-stats.vercel.app/api?username=AswiniSankar&count_private=true&show_icons=true&theme=radical&hide_rank=false) | ![AswiniSankar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswiniSankar&theme=vue-dark) |
-| --- | --- |
+| ![AswiniSankar's github stats](https://github-readme-stats.vercel.app/api?username=AswiniSankar&count_private=true&show_icons=true&theme=radical&hide_rank=false) 
+
 
 <br>
 
